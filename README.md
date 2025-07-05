@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 <div align="center">
-<h1>Dataset of LEGO Colours Pieces</h1>
+<h1>LEGO Colours History Analysis</h1>
 <h2>Day 74: Data Science & Data Processing</h2>
 <i><h3>Udemy Course "100 Days of Code: The Complete Python Pro Bootcamp"</h3></i>
 </div>
